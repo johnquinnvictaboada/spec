@@ -1,7 +1,7 @@
 {
-  "name": "@utxorpc/spec",
-  "version": "0.11.0",
-  "description": "UTxO RPC auto-generated spec types & stubs",
+  "name": "chow/spec",
+  "version": "0.1.0",
+  "description": "U5C spec",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
   "module": "./lib/index.mjs",
@@ -20,12 +20,12 @@
     "grpc",
     "blockchain"
   ],
-  "author": "utxorpc.org",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/utxorpc/spec/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/utxorpc/spec#readme",
+  "homepage": "",
   "devDependencies": {
     "tsup": "^8.2.4",
     "typescript": "^5.1.3"
