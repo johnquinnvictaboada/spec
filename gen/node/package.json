@@ -1,5 +1,5 @@
 {
-  "name": "chow/spec",
+  "name": "chow-spec-test",
   "version": "0.1.0",
   "description": "U5C spec",
   "main": "./lib/index.js",
